@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A friendly admonition, or, Good counsel to the Roman Catholicks in this kingdom by Martin Mason.</title>
+            <author>Mason, Martin, fl. 1650-1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52177</idno>
+            <idno type="STC">Wing M929</idno>
+            <idno type="STC">ESTC R15732</idno>
+            <idno type="EEBO-CITATION">12951571</idno>
+            <idno type="OCLC">ocm 12951571</idno>
+            <idno type="VID">95927</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52177)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95927)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 720:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A friendly admonition, or, Good counsel to the Roman Catholicks in this kingdom by Martin Mason.</title>
+                  <author>Mason, Martin, fl. 1650-1676.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholics --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95927:1"/>
+            <pb facs="tcp:95927:1" rendition="simple:additions"/>
+            <p>A FRIENDLY ADMONITION: OR, Good Counſel TO THE Roman Catholicks IN THIS KINGDOM.</p>
+            <p>By <hi>MARTIN MASON.</hi>
+            </p>
+            <figure/>
+            <p>Printed in the Year, 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:95927:2"/>
+            <pb n="3" facs="tcp:95927:2" rendition="simple:additions"/>
+            <head>A friendly <hi>Admonition;</hi> or, good Counſel to the <hi>Roman Catholicks</hi> in this Kingdome.</head>
+            <p>SHall I need to tell you that this ſmall Tranſcript in the tenderneſs of my love is ſent unto you? Or, can you believe me that in the integrity of my ſoul for the good of yours, this friendly Admonition is thus publiſhed by me? If ſo, then poſſibly it may meet with a kind reception from you: But, however, I muſt deal plainly with you; and when I have cleared my Conſcience to you, (whe<g ref="char:EOLhyphen"/>ther you hear or forbear) I ſhall be clear of you in the day of the Lord.</p>
+            <p>Ever ſince <hi>Cain</hi> contracted upon himſelf the innocent blood of his Brother <hi>Abel,</hi> the Seed of Innocency hath ſuffered wrong and injury, and met with Perſecution from the ſpirit of En<g ref="char:EOLhyphen"/>mity. The truth of this Aſſertion is ſo clear to the wiſeſt of you, that I need not trouble my ſelf to prove it to you.</p>
+            <p>That the Church of Chriſt is of a Lamb-like Spirit, clothed with Innocency, Meekneſs, Love, Pitty and Compaſſion to all people, the wiſe in heart amongſt you cannot but acknowledge. <hi>ſo, I ſend you,</hi> ſaid Chriſt, <hi>as Sheep amongst Wolves.</hi> And were not they harmleſs Sheep indeed? and did they not meet with many Wolves? Did ever any of the true Followers of the lamb put on a wolviſh ſpirit, or uſe carnal violence to win a Convert? Or, did ever external compulſion convert a Sin<g ref="char:EOLhyphen"/>ner unto God? Are not the Tares and the Wheat to grow to<g ref="char:EOLhyphen"/>gether? <hi>&amp;c.</hi> Is it not an undeniable Truth, <hi>That which is not of Faith, is ſin;</hi> and <hi>Faith is the gift of God?</hi> Is not converſion of a ſoul from ſin, the inward work of the Spirit of God? Can any thing draw the mind to God, but the holy Spirit of God? Did ever Perſecution obtain its deſired end, and bring a bleſ<g ref="char:EOLhyphen"/>ſing upon the Perſecutors?</p>
+            <p>Theſe things premiſed, let me expoſtulate a little further <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith you:</p>
+            <p>
+               <pb n="4" facs="tcp:95927:3" rendition="simple:additions"/>
+Have you not formerly been in a ſuffering-ſtate your ſelves more or leſs concerning the exerciſe of your Conſciences to<g ref="char:EOLhyphen"/>wards God? hath not the Rod of Authority heretofore been held over you, and a bridle to you? Have not ſome of the Laws ſeemed to diſcountenance you? Are there not yet pe<g ref="char:EOLhyphen"/>nal Laws in being (though little made uſe of) againſt you? Did you not count it hard meaſure when the yoak of the Pre<g ref="char:EOLhyphen"/>lates was upon you? Did you not earneſtly and ſubmiſſively then plead for Liberty to tender Conſciences? would you not then have been pectorally glad of that Indulgence which the Clemency of the King now vouchſafes unto you? Was it not then eſteemed a Perſecution by you, when the Laws at any time were put in execution againſt you? How ordinary was it with you to plead for Toleration? and now that you have it, can you not therewith be contented? Be not ſo ingrateful unto God, nor ſo unworthy to your King, as to ſlight the Mercies of the Lord, and abuſe the Favour of your Prince. What, muſt you needs monopolize <hi>Caeſar</hi> to your ſelves? muſt the Sun ſhine upon no ground but your own? How comes it that you are or would be eſteemed ſo tranſcendently deſerving of that Royal Priviledge above all other People? Certainly, God intends it not to the beſt of the ſons of men. Is it not Favour ſufficient for you, that <hi>Caeſar</hi> ſmiles upon you, but you muſt turn his frowns towards us, and ſet the edge of his Au<g ref="char:EOLhyphen"/>thority againſt an Innocent People? Is not his ſuſpention of the penal Laws againſt you, a large demonſtration of his Princely Favour to you? What, will nothing but the Throne content you? Certainly, that will ſet the affections of many thouſands in the Nation againſt you: O that there were more true Humility amongſt you, that the Wiſdom of God were with you, that this Ambitious Itch were taken from you, and the pure Love and Innocency of the Lamb of God more a<g ref="char:EOLhyphen"/>bounded in you. Certainly, it would be far ſafer for you to reſt where you are, than to riſe up and fall; for God will make War with <hi>Amalek</hi> to all Generations.</p>
+            <p>Never ſhall any People proſper who uſe Perſecution, and ſeek to eſtabliſh their Religion by a carnal Compulſion. Con<g ref="char:EOLhyphen"/>ſcience is Chriſt's Throne; Kings and Lovers do not uſe to
+<pb n="5" facs="tcp:95927:3" rendition="simple:additions"/>love Corrivals: Be wiſe therefore in time, and take not too much upon you, leſt that which you have be taken from you: Say not within your ſelves, the Strength of the Nation now is for us, Come, let us inrich our ſelves in the Ruines of the People; for though the God of our Innocency may ſuffer you for a ſeaſon to mount a little higher than yet you are; yea, if he ſhould give you the necks of your enemies, the proud <hi>Pre<g ref="char:EOLhyphen"/>lates</hi> and <hi>Presbyters,</hi> to tread upon, yet know this aſſuredly, if your intentions be to build <hi>Sion</hi> with blood, and force all o<g ref="char:EOLhyphen"/>thers to bend unto you, your deſign will deceive you, the blood-thirſty ſpirit is not of God, nor ſhall ſuch as are guided by it live out half their dayes: That ſpirit which ſeeketh its own honour more than the Praiſe of God, ever meets with blaſtings inſtead of bleſſings from God. You need not go far for a proof of this Aſſertion. How many Over-turnings hath this Nation witneſſed within theſe thirty years, and all be<g ref="char:EOLhyphen"/>cauſe Iniquity hath abounded, God hath been diſhonoured, Solemn Engagements to God (for Chriſtian Liberty to his People) violated, and tender Conſciences oppreſſed? and ſhall the ſame (if not greater) ſins lye at your door, and the deſtroying Angel not enter into your houſes, if you repent not and give Glory to God? If you find it ſo, then you may ſay there is no God in <hi>Iſrael.</hi>
+            </p>
+            <p>This therefore I have to ſay unto you, and O that my words might be wiſely pondered by you, and get a good entrance into you.</p>
+            <p>Let not vain imaginations any longer deceive you, for as ſure as the Grapes of <hi>Sodom,</hi> and the Fruits of <hi>Gomorrah</hi> are found amongſt you, the hand of God will overtake you: Let his Witneſs ſearch you; and if he ſpared not others that are gone before you for their Treachery to God, and Oppreſſing of his People, think not you, whoſe Idolatries and Sins be equal with, or ſurmonnt theirs (for where you have Power, your little Fingers are heavier than their Loins) to eſcape divine Juſtice; for God will reckon with you, and render a Reward unto you according to your Deeds: I ſay, be not de<g ref="char:EOLhyphen"/>ceived, God will not be mocked; ſuch as you ſow, ſuch ſhall you reap: When therefore you are in the height of your
+<pb n="6" facs="tcp:95927:4" rendition="simple:additions"/>ſtrength, let not Wiſdom and Moderation be ſtrangers to you, nor a furious Spirit of Revenge be active in you: Happy would it be for you, could you conquer in Love, firſt your own unreaſonable wills, and then with innocency, love, and pa<g ref="char:EOLhyphen"/>tience, win the Affections of the People: Could you be as well contented to give Toleration to tender Conſciences, as not long ſince you were willing to take it for your ſelves, how eaſily and how honourably might you enjoy it? and till then, however you may feed your ſelves with conceits and fancies, God's peace in your Conſciences will never be your portion: If you attempt the Ruine of his innocent People, you will be found fighting againſt God, and engage him to make War with you, and will not he be too Potent for you? Surely de<g ref="char:EOLhyphen"/>ſtruction and miſery without mercy will be their lot whoſe delight is in cruelty.</p>
+            <p>Therefore take warning in time and be awakened: Deſiſt from all cruel Enterprizes; turn your minds to the royal Seed of God in your own Conſciences, and hearken to the holy dictates of God's holy Oracle in your hearts; Bow in time and bend unto it, leſt for your diſobedience you be broken by it; Break off the chains of Iniquity, wherewith the Enemy of your Souls doth imbondage you; Waſh you, make you clean, believe in the Light of Jeſus while it is with you, that he may be a Saviour to you; That which condemns ſin in you, would overcome ſin for you, would you but turn at the Reproof which comes from the Spirit of the Lord in your own hearts: Could you truly witneſs true victory over ſin, that would be more honourable than the conqueſt of a King<g ref="char:EOLhyphen"/>dom: Oh! that you would put on the holy Armour of God, then would you be a royal Camp indeed, an harmleſs, holy, and an honourable People. It would be ſafer for you to ſeek Reconcilement with God, and to live at peace with all men than ſeek to lord it over all men in the exerciſe of their Con<g ref="char:EOLhyphen"/>ſciences towards God; ſo would the Prayers and Tears of God's People mount up to the Throne of Mercy for you, and be of greater force and efficacy with the Lord on your behalf than all your Maſſes are, or yet, poor Souls, you are aware of.</p>
+            <p>
+               <pb n="7" facs="tcp:95927:4" rendition="simple:additions"/>
+And as for that innocent, deſpiſed, yet noble-minded People, reproachfully called <hi>Quakers,</hi> there is no evil in their hearts towards you, nor towards any of the Children of men; but in the integrity of their Souls, they deſire God may be merciful unto you, who through ignorance add unto their Afflictions, not knowing what you do: Therefore, let not your hearts be filled with prejudice againſt them, nor your ears too open to receive, nor your hearts too ready to believe miſ-reports concerning them; When you find them really in Rebellion againſt good Government, do not ſpare them; but all then, I warn you, in the Name of the Lord, do not op<g ref="char:EOLhyphen"/>preſs them, nor in the ſecret of your hearts conſpire to be the ruine of them, but be filled with Chriſtian love, innocency, and meekneſs towards them; for I am bold to teſtifie for them, they are as dear unto the Lord as the apple of his eye, and that Soul that troubles or perſecutes them for the exerciſe of their Conſciences to God, ſhall feel the indignation of God.</p>
+            <p>And if ever the Lord ſuffer you, for the ſins of the People, to make uſe of your Armour, and be a Rod to them that are better than your ſelves, delight not in Cruelty, but love Mer<g ref="char:EOLhyphen"/>cy, and be cloathed with Pity and Compaſſion towards all men, when 'tis in your power, that you may find mercy when your work is done, for you will have need of it; therefore glory not in your own ſtrength, nor think not to make the Con<g ref="char:EOLhyphen"/>ſciences of the Innocent bow unto you, becauſe their Perſons are lyable to be afflicted by you; for though ſuch may ſuffer under you, yet can their Innocency never be conquered by you: for Jeſus hath choſen us, and we have choſen Him as our General in our holy harmleſs War againſt the Man of Sin, the Myſtery of Iniquity, wherein our Weapons are not carnal: But in the Kingdom of our Conſciences, neither Pope nor King ſhall come, but Chriſt; yet to <hi>Caeſar</hi> we can give the things that are <hi>Caeſars;</hi> and to none but God, the things that are Gods.</p>
+            <q>
+               <l>Had <hi>Charles</hi> no worſer Enemies than I,</l>
+               <l>
+                  <hi>Charles,</hi> by the Hand of Man, ſhould never die.</l>
+            </q>
+            <p>
+               <pb n="8" facs="tcp:95927:5" rendition="simple:additions"/>
+Thus have I in the integrity of my heart, breathed a little of my Love unto you, and laid good Counſel before you; what remains but that I leave it with you, and breath in ſe<g ref="char:EOLhyphen"/>cret to the Lord for you, that if it be his good will and plea<g ref="char:EOLhyphen"/>ſure, the words of ſound Wiſdom may take place with you, and not be ſlighted or: rejected by you; Happy were it for you, could you delight in Innocency, and love that noble Seed in your ſelves, which counſels you to depart from Iniquity, and would have you do to all men as you would have all men do unto you, ſo would the bleſſing of God be upon you, his delight would be to exalt you, and he would cloth you with honour in the ſight of the People. But if his own dear Seed in you ſtill be under-valued, and its good counſel be ſet at nought, or ſlighted by you, and your ſins preferred above that which would overcome ſin for you; if inſtead of meekneſs you act with fury and madneſs; if you think to make the Conſciences of the Righteous bow unto you, ſhame and con<g ref="char:EOLhyphen"/>fuſion will aſſuredly fall upon, and an ill ſavour you will be unto all Generations.</p>
+            <closer>
+               <dateline>Lincoln, <date>10th day, 9th Month, 1662.</date>
+               </dateline>
+               <signed>MARTIN MASON.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:95927:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
